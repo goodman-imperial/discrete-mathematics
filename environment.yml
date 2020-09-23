@@ -1,0 +1,6 @@
+name: dmclass
+dependencies:
+  - python=3
+  - numpy
+  - matplotlib
+  - cython
