@@ -9,7 +9,7 @@ Once you've launched it, you can make a copy into your Google Drive that you can
 
 Alternatively, if you don't have a Google account you can run it in Binder, although there is no option to save a copy. Use the button below.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/goodman-imperial/discrete-mathematics)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/goodman-imperial/discrete-mathematics/master)
 
 Or, if you're comfortable with Python, you can install and run Python locally. My recommended technique is as follows:
 
