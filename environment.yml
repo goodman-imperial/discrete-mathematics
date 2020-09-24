@@ -4,3 +4,4 @@ dependencies:
   - numpy
   - matplotlib
   - cython
+  - ipykernel
