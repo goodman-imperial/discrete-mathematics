@@ -7,7 +7,8 @@ The easiest way to use these notebooks if you have a Google account is to launch
 
 Once you've launched it, you can make a copy into your Google Drive that you can save.
 
-Alternatively, if you don't have a Google account you can run it in Binder, although there is no option to save a copy. Use the button below.
+Alternatively, if you don't have a Google account you can run it in Binder, although there is no option to save a copy. Use the button below. The downside
+of Binder is that compilation errors using the method used in these notebooks don't seem to show up anywhere, so it can be hard to debug C++ code.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/goodman-imperial/discrete-mathematics/master)
 
@@ -51,3 +52,6 @@ Now activate the Jupyter environment and run the Jupyter server:
 conda activate jupyter
 jupyter notebook
 ```
+
+Note that compilation errors won't show up in the notebook, but you can see them in the terminal window used to start
+the Jupyter notebook server.
