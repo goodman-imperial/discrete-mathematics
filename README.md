@@ -43,7 +43,7 @@ git clone https://github.com/goodman-imperial/discrete-mathematics.git discrete-
 From the cloned directory, create a virtual environment called ``dmclass`` for this project:
 
 ```
-conda create -f environment.yml
+conda env create --file environment.yml
 ```
 
 Now activate the Jupyter environment and run the Jupyter server:
